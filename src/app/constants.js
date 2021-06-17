@@ -35,7 +35,8 @@ export const MAX_ATTEMPTS = {
 
 export const MUSIC = {
   START: {
-    src: "smb2-character-select.mp3",
+    // src: "smb2-character-select.mp3",
+    src: "Super-Mario-Bros.mp3",
     loop: true
   },
   IN_PROGRESS: {
